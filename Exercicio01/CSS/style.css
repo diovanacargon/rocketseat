@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;500;700&display=swap');
+
+.básico{
+    color: rgb(23, 156, 63);
+    border-color: aquamarine;
+    border-radius: 30px;
+    border-style: double;
+    text-align: center;
+}
