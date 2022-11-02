@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    display: grid;
+    grid-template-areas: 
+    "foto-perfil conteudo"
+    "links conteudo";
+}
+
+.foto-apresentacao{
+    width: 10%;
+}
